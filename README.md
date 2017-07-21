@@ -1,2 +1,2 @@
 # hello-world
-Just yo see how it goes
+Just to see how it goes
